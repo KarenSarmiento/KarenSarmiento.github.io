@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# KarenSarmiento
+I know this is the best thing you've ever seen
+=======
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KarenSarmiento/KarenSarmiento.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>>>>>>> 83c9534421ce6112a497fe323cb1e49194a00e26

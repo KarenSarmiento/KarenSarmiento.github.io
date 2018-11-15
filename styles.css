@@ -1,0 +1,40 @@
+h1 {
+   color: red;
+}
+
+ul.game {
+    margin: 0;
+    padding: 0;
+    width: 365px;
+    height: 365px;
+    margin: 0 auto;
+}
+
+ul.game li {
+    margin: 0;
+    padding: 0;    
+    list-style: none;
+    background: #eee;
+    display: inline-block;
+    height: 32.5%;
+    width: 32.5%;
+    cursor: pointer;
+}
+
+ul.game li.karen {
+    background: url('https://i.imgur.com/IIt89y9.jpg') #A4DBF7 no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+ul.game li.marco {
+    background: url('https://i.imgur.com/g2Ezhbn.jpg') #A4DBF7 no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+ul.game li.blank {
+    /*background: url('https://i.imgur.com/g2Ezhbn.jpg') #A4DBF7 no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;*/
+}
